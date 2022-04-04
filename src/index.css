@@ -23,8 +23,8 @@ body {
 
 .container__section {
   width: 100%;
-  max-width: 400px;
-  min-height: 300px;
+  max-width: 450px;
+  min-height: 250px;
   background-color: var(--dark-grayish-blue);
   border-radius: 10px;
   display: flex;
